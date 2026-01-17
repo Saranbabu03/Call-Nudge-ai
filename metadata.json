@@ -1,0 +1,7 @@
+{
+  "name": "Call Nudge - AI Reminder Assistant",
+  "description": "An intelligent post-call reminder assistant that helps you capture tasks immediately after phone conversations using AI voice processing and natural language understanding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
